@@ -1,5 +1,5 @@
 # Analyze a/b test result
-![Logo]([https://www.theigclub.com/wp-content/uploads/2020/12/IMG-20210123-WA0130.jpg](https://www.optimizely.com/contentassets/08726e145f1b4743a0ba2f30c0447b76/ab-testing.png))
+![]([https://www.theigclub.com/wp-content/uploads/2020/12/IMG-20210123-WA0130.jpg](https://www.optimizely.com/contentassets/08726e145f1b4743a0ba2f30c0447b76/ab-testing.png))
 
 # Table of Contents
 1. [Introduction](#intro)
