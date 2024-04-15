@@ -11,8 +11,8 @@ In this README, we'll provide an overview of A/B testing, its importance, and ho
 Let's dive in and explore the world of A/B testing togethe
 
 
-## System Block Diagram 
-![block diagram](https://user-images.githubusercontent.com/57066226/175679868-76c93abe-95d8-42b1-afb2-c2f155e13759.png)
+## Hypothesis 
+![hypothesis](https://www.google.com.sa/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Fnull-hypothesis-vs-alternative-hypothesis-3126413&psig=AOvVaw3QrZ01LAGpoG_X0bISZ2f4&ust=1713282246146000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCIjvTHxIUDFQAAAAAdAAAAABAE)
 
 
 ## Features  
