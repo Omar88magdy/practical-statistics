@@ -14,14 +14,18 @@ Let's dive in and explore the world of A/B testing togethe
 ## Hypothesis 
 ![hypothesis](https://www.thoughtco.com/thmb/jYLML6qvzKsLQzkJmGbDOnOMk9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/null-hypothesis-vs-alternative-hypothesis-3126413-v31-5b69a6a246e0fb0025549966.png)
 
-###That is the most important part
-You start first by assuming for example that the new page/strategy/method etc.., will be significantly better than the previous one you have 
+### That is the most important part
+
+You start first by assuming for example that the new **page/strategy/method** etc.., will be significantly better than the previous one you have 
 <br>
 strating from this point we can walk along our assumption to try proving if it's really working or not.
 <br>
+
 so how we can decide such decision?
 <br>
-
+First you have to get the obseved value you got from the data 
+![observed_value](https://www.thoughtco.com/thmb/jYLML6qvzKsLQzkJmGbDOnOMk9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/null-hypothesis-vs-alternative-hypothesis-3126413-v31-5b69a6a246e0fb0025549966.png)
+then taking multiple samples supporting your assumption/hypothesis, for example if you assumed that the previous page design will lead to overall greater percentage of conversions, you will start gathering samples supporting this by making these samples gathered from data that has greater percentage of conversions on purpoose, and then evaluate the results to see whether the observed value could be following the assumed distribution of the assumed data or not 
 ## Features  
 
 **Logs page:** 
