@@ -16,66 +16,35 @@ Let's dive in and explore the world of A/B testing togethe
 
 ### That is the most important part
 
-You start first by assuming for example that the new **page/strategy/method** etc.., will be significantly better than the previous one you have 
+You start first by assuming for example that the new **page/strategy/method** etc.., will be significantly better than the previous one you have.
 <br>
+
 strating from this point we can walk along our assumption to try proving if it's really working or not.
 <br>
 
 so how we can decide such decision?
 <br>
+
 First you have to get the obseved value you got from the data 
-![observed_value](https://www.thoughtco.com/thmb/jYLML6qvzKsLQzkJmGbDOnOMk9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/null-hypothesis-vs-alternative-hypothesis-3126413-v31-5b69a6a246e0fb0025549966.png)
-then taking multiple samples supporting your assumption/hypothesis, for example if you assumed that the previous page design will lead to overall greater percentage of conversions, you will start gathering samples supporting this by making these samples gathered from data that has greater percentage of conversions on purpoose, and then evaluate the results to see whether the observed value could be following the assumed distribution of the assumed data or not 
-## Features  
 
-**Logs page:** 
+![observed_value](images/p_new_p_old.jpg)
 
+then taking multiple samples supporting your assumption/hypothesis, for example if you assumed that the previous page design will lead to overall greater percentage of conversions, you will start gathering samples supporting this by making these samples gathered from data that has greater percentage of conversions on purpoose
 
-1- The user can view the history of actions along with some metadata:
+![observed_value](images/sampling_distribution.jpg)
 
-    - The *id* of the *camera* that captured that action.
-    - The *timestamp* indicating the start and end of the action.
-    - The *Building* and *location* where the action happened.
-    - The *confidence* of the predicted action.
+**Then evaluate the results to see whether the observed value could be following the assumed distribution of the assumed data or not**
 
-2- The user can filter by:
+![observed_value](images/graph.jpg)
 
-    - Actions
-    - Building
-    - Location 
-    - Camera 
-    - Start, end date and time.
+# p-value
+**It's all about probability**, p-value is nothing but the probability of observing whether the observed value is following our assumed distribution or not. 
 
-**Visualizations page:**  
+By setting threshold to see if it's below that threshold, it indicates that mostly the observed value doesn't follow the distribution and vice versa.
 
-It provides different visualizations that deliver key insights to the user.
+# observation 
+Regarding our case it was assumed that new page and old page conversion rate are equal.
 
-## Demo 
+by walking along with this assumption and looking for the p-value it was observed that we cannot reject the null hypothesis which says that there is no differnce between old and new page in conversion's rate
 
-https://user-images.githubusercontent.com/57066226/175558538-00bfa5c3-3dae-4160-868b-5ebbd8ed68ed.mp4
-
-
-## Screenshots  
-
-![login2](https://user-images.githubusercontent.com/57066226/175560297-329e5343-85f8-492e-9743-5e621e687a2c.png)
-
-![logs (1)](https://user-images.githubusercontent.com/57066226/175560338-8e0e81f3-92ae-4bc1-8362-e3dbdea0cb92.png)
-
-![photo_2022-06-19_12-21-10](https://user-images.githubusercontent.com/57066226/175560675-a78188f7-52fc-4a21-b13e-e986c980b2d5.jpg)
-
-
-
-## 🚀 About Us 
-We are a group of students studying Communications and Information Engineering at Zewail City of Science and Technology in the final year. This project is our Graduation Project.
-
-## Contact
-
-To contact us:
-
-fmoanesnoureldin@gmail.com
-
-s-mohamed_chaffei@zewailcity.edu.eg
-
-hassouna97.ma@gmail.com
-
-s-touka99-mohamed@zewailcity.edu.eg 
+and that helped us to know that we need to consider redesigning the new page to help us get more conversions.
