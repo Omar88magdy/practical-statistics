@@ -12,7 +12,7 @@ Let's dive in and explore the world of A/B testing togethe
 
 
 ## Hypothesis 
-![hypothesis](https://www.google.com.sa/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Fnull-hypothesis-vs-alternative-hypothesis-3126413&psig=AOvVaw3QrZ01LAGpoG_X0bISZ2f4&ust=1713282246146000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCIjvTHxIUDFQAAAAAdAAAAABAE)
+![hypothesis](https://www.thoughtco.com/thmb/jYLML6qvzKsLQzkJmGbDOnOMk9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/null-hypothesis-vs-alternative-hypothesis-3126413-v31-5b69a6a246e0fb0025549966.png)
 
 
 ## Features  
